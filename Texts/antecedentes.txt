@@ -1,0 +1,63 @@
+Paciente: Maria
+Psicologo: Maria
+Queixas: 
+Sintomas: 
+Tratamentos anteriores: 
+Medicamentos: 
+Infancia: 
+Rotina: 
+Vicio: 
+Hobbies: 
+Trabalho: 
+Historico Familiar: 
+Comportamento: 
+Linguagem: 
+Humor: 
+Hipotese diágnostica: 
+Numero de sessoes: 0
+Valor sessao: 
+Periodicidade: 
+Observacoes: 
+------------------------------
+Paciente: maria
+Psicologo: Maria
+Queixas: 
+Sintomas: 
+Tratamentos anteriores: 
+Medicamentos: 
+Infancia: 
+Rotina: 
+Vicio: 
+Hobbies: 
+Trabalho: 
+Historico Familiar: 
+Comportamento: 
+Linguagem: 
+Humor: 
+Hipotese diágnostica: 
+Numero de sessoes: 0
+Valor sessao: 
+Periodicidade: Mensal
+Observacoes: 
+------------------------------
+Paciente: Maria
+Psicologo: Adalberto
+Queixas: kdhjkjheh
+Sintomas: 
+Tratamentos anteriores: 
+Medicamentos: 
+Infancia: 
+Rotina: 
+Vicio: 
+Hobbies: 
+Trabalho: 
+Historico Familiar: 
+Comportamento: 
+Linguagem: 
+Humor: 
+Hipotese diágnostica: 
+Numero de sessoes: 
+Valor sessao: 
+Periodicidade: 
+Observacoes: 
+------------------------------
